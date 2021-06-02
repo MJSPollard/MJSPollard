@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Hi, I'm Mike Pollard, a passionate full stack software engineer skilled in Typescript, GraphQL, React, Node, MongoDB and more! I'm interested in entrepreneurship, start-ups, digital nomadism, opensource, cryptocurrencies, freelancing, and turning cool ideas into even cooler products.
+
 <!--
 **MJSPollard/MJSPollard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
