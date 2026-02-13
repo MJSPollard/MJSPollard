@@ -4,7 +4,7 @@ Engineer. Founder. Homie.
 
 Built and ran a development agency for several years, shipping 0 → 1 products while traveling the world with my girlfriend.
 
-Moved to San Francisco to lock in and surround myself with other ambitious people.
+Moved to San Francisco to lock in and surround myself with other ambitious people who get it.
 
 Currently working with an insanely cracked team on https://inference.net
 
