@@ -1,18 +1,22 @@
-### Hi there 👋
+# Mike Pollard
 
-Hi, I'm Mike Pollard, a passionate full stack software engineer skilled in Design, Typescript, tRPC, GraphQL, REST, React, React-Native, Node, MongoDB, Postgresql and more! I'm interested in entrepreneurship, start-ups, digital nomadism, opensource, cryptocurrencies, freelancing, and turning cool ideas into even cooler products.
+Engineer. Founder. Homie.
 
-<!--
-**MJSPollard/MJSPollard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Built and ran a development agency for several years, shipping 0 → 1 products while traveling the world with my girlfriend.
 
-Here are some ideas to get you started:
+Moved to San Francisco to lock in and surround myself with other ambitious people.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently working with an insanely cracked team on https://inference.net
+
+I work across the stack and build:
+- mobile apps
+- full-stack web apps
+- CLI tools
+- browser extensions
+- infra
+- database systems
+- AI Agents
+
+Most recent work lives in private repos and orgs.
+
+https://mikepollard.dev
