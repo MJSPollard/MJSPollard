@@ -1,12 +1,12 @@
 # Mike Pollard
 
-Engineer. Founder. Model Whisperer.
+Focus is on engineering, product, and design. Automating as much as much as possible while retaining extremely high quality.
 
 Built and ran a development agency for several years, shipping 0 → 1 products while traveling the world with my girlfriend.
 
 Moved to San Francisco to lock in, build, and surround myself with other ambitious people.
 
-Currently working with an insanely cracked team on https://inference.net
+Currently working with a cracked team on https://inference.net
 
 I work across the stack and build:
 - mobile apps
